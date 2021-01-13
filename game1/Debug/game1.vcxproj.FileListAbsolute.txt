@@ -1,0 +1,2 @@
+D:\放置Visual Studio代码\game1\Debug\game1.exe
+D:\放置Visual Studio代码\game1\Debug\game1.pdb
