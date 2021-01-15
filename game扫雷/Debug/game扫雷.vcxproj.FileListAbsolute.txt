@@ -1,0 +1,2 @@
+D:\放置Visual Studio代码\game扫雷\Debug\game扫雷.exe
+D:\放置Visual Studio代码\game扫雷\Debug\game扫雷.pdb
