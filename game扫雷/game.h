@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-void InitBoard(char board[ROWS][COLS], int rows, int cols,char set);
-void DisplayBoard(char board[ROWS][COLS], int row,int col);
-void SetMine(char board[ROWS][COLS], int row, int col);
-void FindMine(char mine[ROWS][COLS],char show[ROWS][COLS], int row, int col);
+void InitBoard(char board[ROWS][COLS], int rows, int cols,char set);//初始化棋盘
+void DisplayBoard(char board[ROWS][COLS], int row,int col);//展示棋盘
+void SetMine(char board[ROWS][COLS], int row, int col);//设置雷
+void FindMine(char mine[ROWS][COLS],char show[ROWS][COLS], int row, int col);//扫描雷
