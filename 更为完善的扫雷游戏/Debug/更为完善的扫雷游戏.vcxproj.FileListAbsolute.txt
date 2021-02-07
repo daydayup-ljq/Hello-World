@@ -1,0 +1,2 @@
+D:\放置Visual Studio代码\更为完善的扫雷游戏\Debug\更为完善的扫雷游戏.exe
+D:\放置Visual Studio代码\更为完善的扫雷游戏\Debug\更为完善的扫雷游戏.pdb
