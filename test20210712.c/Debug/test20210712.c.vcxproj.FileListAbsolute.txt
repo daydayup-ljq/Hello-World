@@ -1,0 +1,2 @@
+D:\放置Visual Studio代码\test20210712.c\Debug\test20210712.c.exe
+D:\放置Visual Studio代码\test20210712.c\Debug\test20210712.c.pdb

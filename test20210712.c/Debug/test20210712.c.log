@@ -1,0 +1,3 @@
+﻿  test20210712.c
+D:\放置Visual Studio代码\test20210712.c\test20210712.c(60,26): warning C4013: “time”未定义；假设外部返回 int
+  test20210712.c.vcxproj -> D:\放置Visual Studio代码\test20210712.c\Debug\test20210712.c.exe
